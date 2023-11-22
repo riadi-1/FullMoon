@@ -21,6 +21,8 @@ https://github.com/riadi-1/FullMoon/assets/130598901/9af1da7f-4ad1-48a4-82a6-dd1
 
 4- List Favourites :
 
+https://github.com/riadi-1/FullMoon/assets/130598901/de3815f8-9120-49ed-9d6c-66d01515af0a
+
 
 
 
