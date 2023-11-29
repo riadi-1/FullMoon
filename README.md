@@ -1,5 +1,5 @@
 # FullMoon
-Outils :
+ *** Outils :
 
 1- Auth0 : pour l'authentification.
 
@@ -11,11 +11,11 @@ Outils :
 
 5- Base de donnée : MongoDB
 
-Conception :
+ *** Conception :
 
 ###
 
-Demonstration :
+ *** Demonstration :
 1- Ajoute Propriètè :
   + Location.
   + titre.
