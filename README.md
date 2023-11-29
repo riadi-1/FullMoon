@@ -1,7 +1,11 @@
 # FullMoon
 Outils :
+
 1- Auth0 : pour l'authentification.
 2- Cloudinary : cloud pour upload l'images.
+3- Front-End : ReactJS
+4- Back-End : NodeJs
+5- Base de donnée : MongoDB
 
 Conception :
 
