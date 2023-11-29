@@ -1,4 +1,7 @@
 # FullMoon
+Outils :
+1- Auth0 : pour l'authentification.
+2- Cloudinary : cloud pour upload l'images.
 
 Conception :
 
